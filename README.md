@@ -157,7 +157,7 @@ The program utilizes serial communication with the following settings:
 
 Figure 1
 ________________
-Programming Logic:
+#### Programming Logic:
 ![alt text](https://github.com/justinalexchan/Enviro3D/blob/master/images/image12.png "Logo Title Text 1")
 
 Figure 2
