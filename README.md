@@ -152,7 +152,7 @@ The program utilizes serial communication with the following settings:
 * Baud Rate → 115200 BPS
 
 
-Circuit Schematic:
+#### Circuit Schematic:
 ![alt text](https://github.com/justinalexchan/Enviro3D/blob/master/images/image7.png "Logo Title Text 1")
 
 Figure 1
