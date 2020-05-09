@@ -1,5 +1,5 @@
 # Enviro3D
-A 3D environment scanner build using the MSP432E401Y microcontroller
+A 3D environment scanner built using the MSP432E401Y microcontroller. The scanner will take distance measurements of a given environment and create a point cloud for 3D modeling.
 
 ________________
 
